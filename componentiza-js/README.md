@@ -1,6 +1,6 @@
 
 
-# 🌟 Componentiza Framework ![Texto alternativo](/logo.png)
+# 🌟 Componentiza Framework <img src="/logo.png" width="100" height="100" alt="Logo do Componentiza">
 
 **Componentiza Framework** é um microframework em **JavaScript puro**, desenvolvido para proporcionar uma **organização de código modular e eficiente** e acelerar o desenvolvimento de **Single Page Applications (SPAs)**.
 
